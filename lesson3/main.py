@@ -65,9 +65,4 @@ def filter_even(numbers: List) -> List:
 # ?? задати питання
 def check(num): return "парне" if num % 2 == 0 else "не парне"
 
-
-check(4)
-
-
-def test():
-    print("kek")
+check = lambda num: "парне" if num % 2 == 0 else "не парне"
