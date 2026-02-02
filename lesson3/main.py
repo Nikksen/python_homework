@@ -62,8 +62,12 @@ def filter_even(numbers: List) -> List:
     return [num for num in numbers if num % 2 == 0]
 
 
+# ?? задати питання
 def check(num): return "парне" if num % 2 == 0 else "не парне"
 
 
-result1 = check(4)
-print(result1)
+check(4)
+
+
+def test():
+    print("kek")
