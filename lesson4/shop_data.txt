@@ -1,0 +1,15 @@
+# PRODUCTS
+Laptop,1000.0,5
+Mouse,50.0,10
+Keyboard,75.0,8
+
+# CUSTOMERS
+John Doe,john@example.com
+Alice Smith,alice@example.com
+
+# ORDERS
+# CustomerEmail,ProductName,Quantity
+john@example.com,Laptop,1
+john@example.com,Mouse,2
+alice@example.com,Keyboard,1
+alice@example.com,Mouse,1
